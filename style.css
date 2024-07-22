@@ -387,7 +387,7 @@ button.btn.btn-success {
         text-align: center;
         font-size: 18px;
         padding: 3px;
-        /* color: black; */
+      
     }
 
     .headerRight h1 {
@@ -413,12 +413,12 @@ button.btn.btn-success {
 }
 
 
-    /* Adjust button styles */
+
     button.btn.btn-danger, button.btn.btn-success {
         width: 100%;
     }
 
-    /* Adjust last section text position */
+ 
     .lasttext {
     margin-top: 32%;
     text-align: left;
@@ -426,30 +426,30 @@ button.btn.btn-success {
 p#p2 {
     font-size: 12px;
 }
-    /* Adjust icon position */
+
     .icon {
         top: 510px;
         left: 74%;
     }
 
-    /* Adjust about section */
+
     .about {
         width: 100%;
         margin: 5px;
         margin-top: 55px;
     }
 
-    /* Hide award image */
+
     img.award {
         display: none;
     }
 
-    /* Adjust check_icon section */
+
     .check_icon {
         width: 95%;
     }
 
-    /* Adjust Man_image position */
+
     .Man_image {
         position: absolute;
         border-radius: 53px;
@@ -457,25 +457,25 @@ p#p2 {
         width: 16%;
     }
 
-    /* Adjust list item text */
+
     li.d-flex.align-items-center.list p {
         margin-left: 79px;
     }
 
-    /* Center text in text class */
+
     .text {
         text-align: center;
         padding-top: 30px;
         padding-bottom: 30px;
     }
 
-    /* Adjust icon size */
+
     .icons {
         width: 29%;
         margin: auto;
     }
 
-    /* Adjust success button */
+
     button.btn.btn-success {
         width: 100%;
         background: #000;
@@ -486,14 +486,14 @@ p#p2 {
         border: none;
     }
 
-    /* Adjust secondary button */
+
     button.btnspk {
         width: 38%;
         height: 45px;
         font-size: 20px;
     }
 
-    /* Adjust color picker toggle button */
+  
     button.btn.btn-secondary.toggle-btn {
         margin-top: inherit;
     }
