@@ -298,8 +298,8 @@ button.btn.btn-success {
     background: #fff;
     /* right: -30px; */
     border-radius: 15px;
-    top: 590px;
-    left: 44%;
+    top: 636px;
+    left: 43.5%;
 }
 
 .manimg {
@@ -434,15 +434,14 @@ button.btn.btn-success {
     text-align: left;
 }
 p#p2 {
-    font-size: 19px;
-    text-align: left;
+    font-size: 21px;
+ 
 }
 
-    .icon {
-        top: 510px;
-        left: 74%;
-    }
-
+.icon {
+    top: 527px;
+    left: 78%;
+}
 
     .about {
         width: 100%;
@@ -510,3 +509,14 @@ p#p2 {
     }
 }
 
+
+
+
+@media screen and (min-width: 450px) and (max-width: 500px) {
+
+    
+    .icon {
+        top: 530px;
+        left: 75%;
+    }
+}
