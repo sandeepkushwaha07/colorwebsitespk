@@ -21,7 +21,7 @@ img.navbar-logo {
     width: 249px;
 }
 .navbar>.container {
-    display: block !important;
+    display: flex !important;
   
 }
 
@@ -371,7 +371,10 @@ button.btn.btn-success {
 }
 @media screen and (min-width: 320px) and (max-width: 450px) {
 
-  
+    .navbar>.container {
+        display: block !important;
+      
+    }
     img.navbar-logo {
         width: 41%;
         float: left;
@@ -382,7 +385,7 @@ button.btn.btn-success {
     }
     p.lastspk {
         text-align: center;
-        font-size: 16px;
+        font-size: 18px;
         padding: 3px;
         /* color: black; */
     }
@@ -421,7 +424,7 @@ button.btn.btn-success {
     text-align: left;
 }
 p#p2 {
-    font-size: 11px;
+    font-size: 12px;
 }
     /* Adjust icon position */
     .icon {
