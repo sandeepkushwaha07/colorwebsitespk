@@ -84,11 +84,16 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-\#fff.sticky-top {
 /*cssssssss*/
 
 
- .headerRight h1 {
-    font-size: 72px;
-    /* color: #fff; */
+p#p2 {
+    text-align: left;
+    font-size: 21px;
+}
+.headerRight h1 {
     line-height: 82px;
-    font-weight: 700;
+     font-size: 72px;
+    /* color: #fff; */
+   font-weight: 700;
+    text-align: left;
 }
 .head1, .p1 {
     color: #000 !important;
@@ -99,11 +104,14 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-\#fff.sticky-top {
 }
 .headerRight {
     margin-top: 60px;
+    margin-left: 52px;
 }
  .headerRight {
     margin-top: 60px;
 }
-
+.button {
+    text-align: left;
+}
 button.btn.btn-danger {
     width: 35%;
     background: #000;
@@ -369,6 +377,7 @@ button.btn.btn-success {
     font-size: 61px;
     font-weight: 700;
 }
+
 @media screen and (min-width: 320px) and (max-width: 450px) {
 
     .navbar>.container {
