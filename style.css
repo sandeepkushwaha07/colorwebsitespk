@@ -391,10 +391,11 @@ button.btn.btn-success {
     }
 
     .headerRight h1 {
-        font-size: 45px;
+        font-size: 47px;
         line-height: 44px;
         font-weight: 700;
         float: left;
+        text-align: left;
     }
 
     .icons {
@@ -424,7 +425,8 @@ button.btn.btn-success {
     text-align: left;
 }
 p#p2 {
-    font-size: 12px;
+    font-size: 19px;
+    text-align: left;
 }
 
     .icon {
