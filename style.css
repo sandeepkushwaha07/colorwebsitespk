@@ -69,7 +69,6 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-\#fff.sticky-top {
 }
 .toggle-btn {
     position: fixed;
-    top: 50%;
     top: 27%;
     right: 0;
     transform: translateY(-50%);
@@ -374,8 +373,12 @@ button.btn.btn-success {
 
   
     img.navbar-logo {
-        width: 58%;
         width: 41%;
+        float: left;
+        margin: 2%;
+    }
+    button.navbar-toggler {
+        float: right;
     }
 
     .headerRight h1 {
