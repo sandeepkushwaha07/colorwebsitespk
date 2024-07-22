@@ -388,9 +388,10 @@ button.btn.btn-success {
     }
 
     .headerRight h1 {
-        font-size: 37px;
+        font-size: 45px;
         line-height: 44px;
         font-weight: 700;
+        float: left;
     }
 
     .icons {
@@ -419,10 +420,12 @@ button.btn.btn-success {
     margin-top: 32%;
     text-align: left;
 }
-
+p#p2 {
+    font-size: 11px;
+}
     /* Adjust icon position */
     .icon {
-        top: 555px;
+        top: 510px;
         left: 74%;
     }
 
